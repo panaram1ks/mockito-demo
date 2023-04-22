@@ -3,9 +3,8 @@ package com.in28minutes.mackito.mockitodemo.business;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.fail;
 
-public class SomeBusinessImplTest {
+public class SomeBusinessImplStubTest {
 
     @Test
     void findTheGreatestFromAllData_basicScenario(){
